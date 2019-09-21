@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginIecaAndy</string>
+
+    <string name="btnChooseFile">Choose File</string>
+    <string name="btnUpload">Upload</string>
+    <string name="txtFileName">File Name</string>
+    <string name="msgNotFileSelected">No file selected</string>
+
+    <string name="msgSuccess">Upload succesfull</string>
+    <string name="msgInProgress">Upload in progress </string>
+    <string name="btnShowImages">Show Images</string>
+</resources>

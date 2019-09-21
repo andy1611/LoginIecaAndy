@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "559935484126",
+    "firebase_url": "https://loginiecaandy.firebaseio.com",
+    "project_id": "loginiecaandy",
+    "storage_bucket": "loginiecaandy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559935484126:android:3d88693a86077f7c",
+        "android_client_info": {
+          "package_name": "com.andyg.loginiecaandy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559935484126-m707ctonq4jk62qvblcg1pn5ad7fh7ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andyg.loginiecaandy",
+            "certificate_hash": "d5ec4c85b100dc487298ec0c04a357819a67e76a"
+          }
+        },
+        {
+          "client_id": "559935484126-grdnhtg0h0an3v6tc9n7m5nsg430vua5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBM9v5G-XCzpR8L2unj4jPJzw1EM63Hzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559935484126-grdnhtg0h0an3v6tc9n7m5nsg430vua5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
